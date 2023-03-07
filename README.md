@@ -1,5 +1,5 @@
 ![MasterHead](https://camo.githubusercontent.com/b0621d07cea35d36f40304a746dc6c07e2ffd2ce9dc6c283b59b4697a8cd1039/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313833382f302a4647443642557a7a5a7331564a4c75592e676966)
-<h1 align="center">Hi 👋, I'm Abdul Khalek</h1>
+<h1 align="center">Hi 👋, I'm Abdul Khalek Sohan</h1>
 <h3 align="center">A passionate Front-end developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
