@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Gazepay](gazepay.com)
 
-- 💬 Ask me about **React, Next,Svelte, SvelteKit, React Native, Redux**
+- 💬 Ask me about **React, Next, Svelte, SvelteKit, React Native, Redux, Node, Nest, Postgresql, Docker**
 
 - 📫 How to reach me **sohanfahad@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1RGyt_CcCXXpuZo-CtSgo4pnmkwk7Si2a4_grRg1YOig/edit?usp=sharing](https://docs.google.com/document/d/1RGyt_CcCXXpuZo-CtSgo4pnmkwk7Si2a4_grRg1YOig/edit?usp=sharing)
+- 📄 Know about my experience to visit my [website](http://sohanfahad.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
