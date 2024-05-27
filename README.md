@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohan-fahad&label=Profile%20views&color=0e75b6&style=flat" alt="sohan-fahad" /> </p>
 
-- 🔭 I’m currently working on [Gazepay](gazepay.com)
+- 🔭 I’m currently working on [Deliveryhobe](deliveryhobe.com)
 
 - 💬 Ask me about **React, Next, Svelte, SvelteKit, React Native, Redux, Node, Nest, Postgresql, Docker**
 
